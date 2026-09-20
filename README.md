@@ -14,7 +14,7 @@
 <td width="55%" valign="top">
 <p>I'm a <b>Computer Science student</b> passionate about turning ideas into efficient code, building web applications, and diving deep into data science & artificial intelligence.</p>
 
-<h4>Currently, I'm balancing:</h4>
+<h4>Currently, I'm working on:</h4>
 <ul>
 <li>💻 <b>Building Web Apps</b> with <b>Ruby on Rails</b> & modern web technologies</li>
 <li>🐍 <b>Data Analytics & ML</b> modeling using <b>Python, Pandas & Matplotlib</b></li>
