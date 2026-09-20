@@ -52,7 +52,7 @@
 #### 👨‍💻 Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,ruby,js,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,ruby,js,html,css&" alt="Languages" />
   </a>
 </p>
 
