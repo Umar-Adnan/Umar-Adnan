@@ -38,8 +38,9 @@ I'm a Computer Science student at UMT passionate about building web applications
 
 ### 🐍 Contribution Graph Snake Game
 
-![Snake Animation](https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
 ---
 
 ### 💭 A Little About Me
