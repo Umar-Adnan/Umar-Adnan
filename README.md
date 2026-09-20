@@ -47,11 +47,44 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+---
 
-- **Languages:** Python, C++, Ruby, SQL, x86 Assembly, HTML/CSS, JavaScript
-- **Frameworks & Libraries:** Ruby on Rails, Pandas, Matplotlib, NumPy
-- **Tools & Platforms:** Git, GitHub, Vim, Linux, Figma, Postman, Cursor
+### ⚡ Tech Stack
+
+#### 👨‍💻 Languages
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,ruby,js,html,css" alt="Languages" />
+  </a>
+</p>
+
+#### 🌐 Full-Stack Development & Data Science
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rails,bootstrap,tailwind,react" alt="Frameworks" />
+  </a>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
+  </a>
+</p>
+
+**Also familiar with:** SQL • Microsoft SQL Server (SSMS) • Relational Database Design
+
+#### 🧩 Computer Science
+`Data Structures & Algorithms` • `OOP` • `DBMS` • `Systems Programming` • `Problem Solving`
+
+#### 🛠️ Tools & Environments
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,figma,postman" alt="Tools" />
+  </a>
+</p>
+
+**Also:** Cursor Console • x86 Assembly • Cisco Packet Tracer
 
 ---
 
