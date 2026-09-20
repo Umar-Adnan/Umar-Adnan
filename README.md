@@ -28,16 +28,17 @@ I'm a Computer Science student at UMT passionate about building web applications
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umar-Adnan&show_icons=true&theme=tokyonight" alt="Umar's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umar-Adnan&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umar-Adnan&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-🔥 **Contribution Streak:**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umar-Adnan&theme=tokyonight)
+### 📊 Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Adnan&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
 ---
 
 ### 🐍 Contribution Graph Snake Game
@@ -61,16 +62,3 @@ const umar = {
     goal: "Building intelligent, scalable software applications 🚀",
     mindset: "Continuous Learning & Sharing Knowledge"
 };
-
-```
-
----
-
-### 🤝 Let's Connect
-
-* 💼 **LinkedIn:** [Muhammad Umar Adnan](https://www.linkedin.com/in/m-umar-adnan-a36515240/?utm_source=gemini)
-* 🐙 **GitHub:** [@Umar-Adnan](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/Umar-Adnan)
-* 📹 **YouTube:** [TeachmeROR Channel](https://www.google.com/url?sa=E&source=gmail&q=https://www.youtube.com/@TeachmeROR)
-
-⭐ *If you check out my repositories, consider leaving a star!*
-
