@@ -28,16 +28,11 @@ I'm a Computer Science student at UMT passionate about building web applications
 
 ---
 
-### 📊 GitHub Profile Summary
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umar-Adnan&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-### 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Adnan&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="Umar's GitHub Stats" width="45%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="45%" />
 </p>
 ---
 
