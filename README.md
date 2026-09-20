@@ -30,12 +30,13 @@ I'm a Computer Science student at UMT passionate about building web applications
 
 ### 📊 GitHub Stats
 
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umar-Adnan&show_icons=true&theme=radial)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Adnan&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Umar-Adnan&show_icons=true&theme=tokyonight" alt="Umar's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Umar-Adnan&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 🔥 **Contribution Streak:**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umar-Adnan&theme=radial)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Umar-Adnan&theme=tokyonight)
 
 ---
 
