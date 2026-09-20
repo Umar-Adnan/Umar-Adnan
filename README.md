@@ -47,8 +47,6 @@
 
 ---
 
----
-
 ### ⚡ Tech Stack
 
 #### 👨‍💻 Languages
@@ -101,14 +99,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
----
+
 
 ### 🐍 Contribution Graph Snake Game
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
----
+
 
 ### 💭 A Little About Me
 
@@ -126,7 +124,6 @@ const umar = {
     mindset: "Continuous Learning & Sharing Knowledge"
 };
 
----
 ```
 <h2 align="center">🤝 Let's Connect & Collaborate!</h2>
 
