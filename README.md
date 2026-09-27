@@ -39,73 +39,107 @@
 
 ---
 
-### 🚀 Socials & Badges
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-umar-adnan-a36515240/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umar-Adnan)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@teach_me_ror)
+  <h2>🚀 Socials & Badges</h2>
 
----
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Umar-Adnan" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://youtube.com/@TeachmeROR" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </p>
 
-### ⚡ Tech Stack
-
-#### 👨‍💻 Languages
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,ruby,js,html,css&" alt="Languages" />
-  </a>
-</p>
-
-#### 🌐 Full-Stack Development & Data Science
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails,bootstrap,tailwind,react" alt="Frameworks" />
-  </a>
-</p>
-
-#### 🗄️ Databases
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
-  </a>
-</p>
-
-**Also familiar with:** SQL • Microsoft SQL Server (SSMS) • Relational Database Design
-
-#### 🧩 Computer Science
-`Data Structures & Algorithms` • `OOP` • `DBMS` • `Systems Programming` • `Problem Solving`
-
-#### 🛠️ Tools & Environments
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,figma,postman" alt="Tools" />
-  </a>
-</p>
-
-**Also:** Cursor Console • x86 Assembly • Cisco Packet Tracer
+</div>
 
 ---
+<div align="center">
 
-### 📊 GitHub Stats & Trophy
+  <h2>⚡ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Umar-Adnan&theme=2077&background=0d1117&border=e63946&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&currStreakNum=e63946&sideNums=e63946&sideLabels=ffffff&dates=ffffff&cache_seconds=1800" alt="GitHub Streak" />
-</p>
+  <h3>👨‍💻 Languages</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,c,py,ruby,js,html,css&theme=dark" alt="Languages" />
+    </a>
+  </p>
+  <p><b>C++ • C • Python • Ruby • JavaScript • HTML5 • CSS3</b></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=e63946" alt="Python" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-100000?style=for-the-badge&logo=ruby-on-rails&logoColor=e63946" alt="Rails" />
-  <img src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=e63946" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=e63946" alt="JS" />
-  <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=e63946" alt="Git" />
-</p>
+  <br />
 
+  <h3>🌐 Full-Stack Development & Data Science</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=rails,bootstrap,tailwind,react&theme=dark" alt="Frameworks" />
+    </a>
+  </p>
+  <p><b>Ruby on Rails • Bootstrap • Tailwind CSS • React</b></p>
 
-### 🐍 My Contribution 
+  <br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
+  <h3>🗄️ Databases</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
+    </a>
+  </p>
+  <p><b>PostgreSQL • MySQL • SQLite</b></p>
+  <p><i>Also familiar with: SQL • Microsoft SQL Server (SSMS) • Relational Database Design</i></p>
+
+  <br />
+
+  <h3>🧩 Computer Science</h3>
+  <p>
+    <code>Data Structures & Algorithms</code> • <code>OOP</code> • <code>DBMS</code> • <code>Systems Programming</code> • <code>Problem Solving</code>
+  </p>
+
+  <br />
+
+  <h3>🛠️ Tools & Environments</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,figma,postman&theme=dark" alt="Tools" />
+    </a>
+  </p>
+  <p><b>Git • GitHub • VS Code • Vim • Linux • Figma • Postman</b></p>
+  <p><i>Also: Cursor Console • x86 Assembly • Cisco Packet Tracer</i></p>
+
+  <br />
+  <hr />
+
+</div>
+<div align="center">
+
+  <h2>📊 GitHub Stats & Trophy</h2>
+
+  <p>
+    <img src="https://streak-stats.demolab.com?user=Umar-Adnan&theme=2077&background=0d1117&border=e63946&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&currStreakNum=e63946&sideNums=e63946&sideLabels=ffffff&dates=ffffff&cache_seconds=1800" alt="GitHub Streak" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=e63946" alt="Python" />
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-100000?style=for-the-badge&logo=ruby-on-rails&logoColor=e63946" alt="Rails" />
+    <img src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=e63946" alt="C++" />
+    <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=e63946" alt="JS" />
+    <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=e63946" alt="Git" />
+  </p>
+
+  <br />
+  <hr />
+  <br />
+
+  <h2>🐉 My Contribution</h2>
+
+  <p>
+    <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  </p>
+
+</div>
 
 
 ### 💭 A Little About Me
