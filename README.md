@@ -133,7 +133,7 @@
   <hr />
   <br />
 
-  <h2>🐉 My Contribution</h2>
+  <h2>🐉 My Contributions</h2>
 
   <p>
     <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
