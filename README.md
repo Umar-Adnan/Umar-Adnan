@@ -89,15 +89,15 @@
 ### 📊 GitHub Stats & Trophy
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Umar-Adnan&theme=tokyonight" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Umar-Adnan&theme=2077&background=0d1117&border=e63946&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&currStreakNum=e63946&sideNums=e63946&sideLabels=ffffff&dates=ffffff&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=e63946" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-100000?style=for-the-badge&logo=ruby-on-rails&logoColor=e63946" alt="Rails" />
+  <img src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=e63946" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=e63946" alt="JS" />
+  <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=e63946" alt="Git" />
 </p>
 
 
