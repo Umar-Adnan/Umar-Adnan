@@ -117,21 +117,19 @@
 
   <h2>📊 GitHub Stats & Trophy</h2>
 
-  <p>
-    <img src="https://streak-stats.demolab.com?user=Umar-Adnan&theme=2077&background=0d1117&border=e63946&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&currStreakNum=e63946&sideNums=e63946&sideLabels=ffffff&dates=ffffff&cache_seconds=1800" alt="GitHub Streak" />
-  </p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=Umar-Adnan&theme=2077&background=0d1117&border=e63946&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&currStreakNum=e63946&sideNums=e63946&sideLabels=ffffff&dates=ffffff&cache_seconds=1200" alt="GitHub Streak" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=e63946" alt="Python" />
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-100000?style=for-the-badge&logo=ruby-on-rails&logoColor=e63946" alt="Rails" />
-    <img src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=e63946" alt="C++" />
-    <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=e63946" alt="JS" />
-    <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=e63946" alt="Git" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=e63946" alt="Python" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-100000?style=for-the-badge&logo=ruby-on-rails&logoColor=e63946" alt="Rails" />
+  <img src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=e63946" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=e63946" alt="JS" />
+  <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=e63946" alt="Git" />
+</p>
 
-  <br />
   <hr />
-  <br />
 
   <h2>🐉 My Contributions</h2>
 
