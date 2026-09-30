@@ -131,16 +131,9 @@
 
 </div>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=e63946" alt="Python" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-100000?style=for-the-badge&logo=ruby-on-rails&logoColor=e63946" alt="Rails" />
-  <img src="https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=e63946" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=e63946" alt="JS" />
-  <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=e63946" alt="Git" />
-</p>
-
   <hr />
 
+<div align="center">
   <h2>🐉 My Contributions</h2>
 
   <p>
