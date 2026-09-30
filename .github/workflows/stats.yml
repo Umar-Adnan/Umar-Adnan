@@ -1,0 +1,39 @@
+name: Generate GitHub Stats SVG
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Runs every 30 minutes
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@v2
+        with:
+          user: Umar-Adnan
+          theme: 2077
+          background: 0d1117
+          border: e63946
+          stroke: e63946
+          ring: e63946
+          fire: e63946
+          currStreakLabel: e63946
+          currStreakNum: e63946
+          sideNums: e63946
+          sideLabels: ffffff
+          dates: ffffff
+          output_filename: generated/github-streak-stat.svg
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github streak stats svg"
+          file_pattern: "generated/github-streak-stat.svg"
