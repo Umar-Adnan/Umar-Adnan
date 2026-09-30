@@ -116,9 +116,9 @@
 <div align="center">
 
   <h2>📊 GitHub Stats & Trophy</h2>
-
+<!-- Stats Card -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-streak-stat.svg?v=1" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-streak-stat.svg" alt="GitHub Streak" />
 </p>
 
   <p>
@@ -136,9 +136,10 @@
 <div align="center">
   <h2>🐉 My Contributions</h2>
 
-  <p>
-    <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-  </p>
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
 
 </div>
 
