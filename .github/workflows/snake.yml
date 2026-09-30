@@ -1,9 +1,9 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "*/12 * * * *" # Runs every hour
-  workflow_dispatch: # Allows manual run button
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch: # Allows manual trigger
 
 permissions:
   contents: write
@@ -12,14 +12,27 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Custom Red & Black Snake SVG
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create Output Directory
+        run: mkdir -p dist
+
+      # 1. Generate Snake SVG
+      - name: Generate Custom Red Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23e63946&color_dots=%23161b22,%233d0000,%23800000,%23b30000,%23e63946
 
-      - name: Push SVG to Output Branch
+      # 2. Download Streak Stats SVG
+      - name: Download Red & Black Streak Stats SVG
+        run: |
+          curl -s -o dist/github-streak-stat.svg "https://streak-stats.demolab.com?user=Umar-Adnan&theme=2077&background=0d1117&border=e63946&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&currStreakNum=e63946&sideNums=e63946&sideLabels=ffffff&dates=ffffff"
+
+      # 3. Push Both SVGs to Output Branch Together
+      - name: Push SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
