@@ -118,7 +118,7 @@
   <h2>📊 GitHub Stats & Trophy</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-streak-stat.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Umar-Adnan/Umar-Adnan/output/github-streak-stat.svg?v=1" alt="GitHub Streak" />
 </p>
 
   <p>
