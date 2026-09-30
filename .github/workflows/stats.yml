@@ -2,7 +2,7 @@ name: Generate GitHub Stats SVG
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # Runs every 30 minutes
+    - cron: "0 * * * *" # Runs every hour
   workflow_dispatch: # Allows manual trigger
 
 permissions:
@@ -15,8 +15,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Create Output Directory
+        run: mkdir -p dist
+
       - name: Generate Streak Stats SVG
-        uses: DenverCoder1/github-readme-streak-stats@v2
+        uses: DenverCoder1/github-readme-streak-stats@v2.0.0
         with:
           user: Umar-Adnan
           theme: 2077
@@ -30,10 +33,12 @@ jobs:
           sideNums: e63946
           sideLabels: ffffff
           dates: ffffff
-          output_filename: generated/github-streak-stat.svg
+          output_filename: dist/github-streak-stat.svg
 
-      - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          commit_message: "chore: update github streak stats svg"
-          file_pattern: "generated/github-streak-stat.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
