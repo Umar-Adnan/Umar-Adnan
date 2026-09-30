@@ -3,13 +3,13 @@ name: Generate GitHub Stats SVG
 on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Allows manual run button
 
 permissions:
   contents: write
 
 jobs:
-  publish:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -18,24 +18,11 @@ jobs:
       - name: Create Output Directory
         run: mkdir -p dist
 
-      - name: Generate Streak Stats SVG
-        uses: DenverCoder1/github-readme-streak-stats@v2.0.0
-        with:
-          user: Umar-Adnan
-          theme: 2077
-          background: 0d1117
-          border: e63946
-          stroke: e63946
-          ring: e63946
-          fire: e63946
-          currStreakLabel: e63946
-          currStreakNum: e63946
-          sideNums: e63946
-          sideLabels: ffffff
-          dates: ffffff
-          output_filename: dist/github-streak-stat.svg
+      - name: Download Red & Black Streak Stats SVG
+        run: |
+          curl -o dist/github-streak-stat.svg "https://streak-stats.demolab.com?user=Umar-Adnan&theme=2077&background=0d1117&border=e63946&stroke=e63946&ring=e63946&fire=e63946&currStreakLabel=e63946&currStreakNum=e63946&sideNums=e63946&sideLabels=ffffff&dates=ffffff"
 
-      - name: Push to Output Branch
+      - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
