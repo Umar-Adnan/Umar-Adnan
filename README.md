@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Muhammad Umar Adnan</h1>
-<h3 align="center">Software Developer | Computer Science Student @ UMT | Exploring AI & Machine Learning</h3>
+<h3 align="center">FullStack Developer | Computer Science Student @ UMT | Exploring AI & Machine Learning</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-umar-adnan-a36515240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
